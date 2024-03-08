@@ -14,7 +14,7 @@ This web application allows users to input text and convert it into speech with 
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/text-to-voice-converter.git`
+1. Clone the repository: `git clone https://github.com/swati-204/text-to-voice-converter.git`
 2. Navigate to the project directory: `cd text-to-voice-converter`
 3. Open `index.html` in your web browser.
 
